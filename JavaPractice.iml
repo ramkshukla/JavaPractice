@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Concurrency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaIO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaProgram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NetWorking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/REGEX" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RMI" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reflection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StreamAPI" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
